@@ -20,6 +20,4 @@ If you're interested in recreating a similar experience or learning from this pr
 
 ## Disclaimer
 
-While I've put effort into crafting this project, it's important to note that there may be security flaws or incorrect implementations. However, as the saying goes, "if it works, don't fix it." Nevertheless, I'm open to feedback and suggestions for improvement.
-
-Feel free to explore the code, contribute, or share your own experiences with using this project. Let's make asking out your crush an adventure to remember! 🚀
+While I've put effort into crafting this project, it's important to note that there may be security flaws or incorrect implementations. However, as the saying goes, "if it works, don't fix it." Nevertheless, I'm open to feedback and suggestions for improvement although I most likely will not be making any changes to this project.
